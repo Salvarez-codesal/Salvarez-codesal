@@ -20,6 +20,14 @@ _pronouns: she/her_
 
 ---
 
+## :woman_technologist: About me
+- 🔭 I’m a data scientist and aquatic ecologist looking for a job in the data world 💻.
+- 🌱 I’m currently learning Natural Language Processing (NLP), starting to explore the 'cloud' world and working on personal projects
+- 💬 Ask me about machine learning, climate change, aquatic ecology, ecology and evolution, gender equality and diversity 
+- 📫 Get in touch with me via email or [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sorayaalvarezcodesal/)
+
+---
+
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -38,12 +46,33 @@ _pronouns: she/her_
 
 
 ---
----
 
-## :woman_technologist: About me
-- 🔭 I’m a data scientist and aquatic ecologist looking for a job in the data world 💻.
-- 🌱 I’m currently learning Natural Language Processing (NLP), starting to explore the 'cloud' world and working on personal projects
-- 💬 Ask me about machine learning, climate change, aquatic ecology, ecology and evolution, gender equality and diversity 
-- 📫 Get in touch with me via email or [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sorayaalvarezcodesal/)
 
----
+## :fire: My Stats :
+
+<p>
+   <a href="https://github.com/tallaringues/github-readme-stats">
+   <img src="https://streak-stats.demolab.com?user=Tallaringues&theme=gruvbox" height="180px"/>  
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tallaringues&show_icons=true&theme=gruvbox" alt="Marta Alirangues top languages" height="180px"/>
+<br/>
+</p>
+
+<!--
+
+- 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tallaringues&theme=gruvbox)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tallaringues&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+✨ _more information coming soon_ ✨
+
+More stats: <img src="https://github-readme-stats.vercel.app/api?username=Tallaringues&theme=gruvbox&show_icons=true" height="100px"/></a>
+-->
+
