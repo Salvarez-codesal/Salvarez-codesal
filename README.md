@@ -1,4 +1,4 @@
-![cover photo](https://github.com/Salvarez-codesal/Salvarez-codesal/tree/main/extras/linkedin_banner.png)
+![cover photo](https://raw.githubusercontent.com/Salvarez-codesal/Salvarez-codesal/main/extras/linkedin_banner.png)
 
 ### Hi and welcome to my GitHub 👋
 
