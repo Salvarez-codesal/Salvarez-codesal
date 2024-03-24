@@ -22,6 +22,6 @@ _pronouns: she/her_
 - 🔭 I’m a data scientist and aquatic ecologist looking for a job in the data world 💻.
 - 🌱 I’m currently learning Natural Language Processing (NLP), starting to explore the 'cloud' world and working on personal projects
 - 💬 Ask me about machine learning, climate change, aquatic ecology, ecology and evolution, gender equality and diversity 
-- 📫 Get in touch with me via email or [![Linkedin Badge](https://www.linkedin.com/in/sorayaalvarezcodesal/)
+- 📫 Get in touch with me via email or [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sorayaalvarezcodesal/)
 
 ---
