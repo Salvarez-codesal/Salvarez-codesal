@@ -9,8 +9,8 @@ _pronouns: she/her_
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.researchgate.net/profile/Soraya-Alvarez-Codesal">
-    <img src="https://img.shields.io/badge/researchgate-white?style=for-the-badge&logo=researchgate&logoColor=%2300CCBB" alt="ResearchGate Badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/researchgate-white?style=for-the-badge&logo=researchgate&logoColor=%2300CCBB" alt="ResearchGate Badge"/>
+</a>
   <a href="https://twitter.com/SorayaAlvarez85">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
