@@ -21,10 +21,12 @@ _pronouns: she/her_
 ---
 
 ## :woman_technologist: About me
-- 🔭 I’m a data scientist and aquatic ecologist looking for a job in the data world 💻.
+- 📍 **Pontevedra, Spain** 
+- 🔭 I'm a data scientist and a doctor in aquatic ecology, seeking a position in the data world 💻.
 - 🌱 I’m currently learning Natural Language Processing (NLP), starting to explore the 'cloud' world and working on personal projects
 - 💬 Ask me about machine learning, climate change, aquatic ecology, ecology and evolution, gender equality and diversity 
 - 📫 Get in touch with me via email or [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sorayaalvarezcodesal/)
+- 📧 **Email:** [soraya.alvarez.codesal@gmail.com](mailto:soraya.alvarez.codesal@gmail.com) 
 
 ---
 
@@ -44,9 +46,18 @@ _pronouns: she/her_
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
 </div>
 
+### Tech Toolbox 🛠️
+- **Languages:** Python, R, SQL, 
+- **Frameworks & Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook, Git, tidyverse, ggplot2,...
+- **Others:** ArcGIS, ArcMap
+
+### Education 🎓
+- **PhD in Ecology and Climate Change**, Université Toulouse III - Paul Sabatier, France 
+- **Masters in Aquatic Ecology**, Universidad Autonoma de Madrid (Spain), Amsterdam University (The Netherlands) and Mälardalen University (Sweden)
+- **Bachelors in Environmental Science**, Universidad de Granada, Spain
+
 
 ---
-
 
 ## :fire: My Stats :
 
