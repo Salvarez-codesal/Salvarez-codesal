@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi and welcome to my GitHub 👋
 
-<!--
-**Salvarez-codesal/Salvarez-codesal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Soraya Alvarez Codesal
 
-Here are some ideas to get you started:
+_pronouns: she/her_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sorayaalvarezcodesal/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Soraya-Alvarez-Codesal">
+    <img src="https://img.shields.io/badge/researchgate-white?style=for-the-badge&logo=researchgate&logoColor=%2300CCBB" alt="ResearchGate Badge"/>
+  </a>
+  <a href="https://twitter.com/SorayaAlvarez85">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+---
+
+## :woman_technologist: About me
+- 🔭 I’m a data scientist and aquatic ecologist looking for a job in the data world 💻.
+- 🌱 I’m currently learning Natural Language Processing (NLP), starting to explore the 'cloud' world and working on personal projects
+- 💬 Ask me about machine learning, climate change, aquatic ecology, ecology and evolution, gender equality and diversity 
+- 📫 Get in touch with me via email or [![Linkedin Badge](https://www.linkedin.com/in/sorayaalvarezcodesal/)
+
+---
